@@ -1,5 +1,7 @@
-Hi there, David 👋
+Hi there, I'm David 👋
 
+
+I'm just starting to create this README, so if you read this, expect something way more awesome in a couple days :D
 <!--
 **drestrep42/drestrep42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
